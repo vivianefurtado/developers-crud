@@ -1,6 +1,6 @@
 # developers-crud
 
-Após ter clonado o repositório, será necessário acessar até a raiz do diretório `developers-crud`.
+Após ter clonado o repositório, será necessário acessar a raiz do diretório `developers-crud`.
 
 ## Back-end
 
@@ -32,10 +32,10 @@ O front-end pode ser acessado usando a seguinte url: http://localhost:3000
 
 ## Tecnologias Utilizadas:
 
-Front-end: Desenvolvido utilizando [React](https://reactjs.org/), atráves do bootstrapped [Create React App](<(https://github.com/facebook/create-react-app)>).
+Banco de dados: [MongoDB Atlas Cloud](https://www.mongodb.com/cloud/atlas).
 
 Back-end: Deselvolvido utilizando [NestJS](https://github.com/nestjs/nest).
 
-Banco de dados: [MongoDB Atlas Cloud](https://www.mongodb.com/cloud/atlas).
+Front-end: Desenvolvido utilizando [React](https://reactjs.org/), atráves do bootstrapped [Create React App](<(https://github.com/facebook/create-react-app)>).
 
 Obs: Esta aplicação não roda em docker.
