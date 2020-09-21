@@ -1,0 +1,18 @@
+.container {
+  padding: 10px;
+  justify-content: center;
+}
+
+.form-container {
+  min-height: 500px;
+}
+
+.button-submit {
+  display: flex;
+  flex-direction: row;
+  margin-top: 15px;
+}
+
+.field {
+  width: 600px;
+}

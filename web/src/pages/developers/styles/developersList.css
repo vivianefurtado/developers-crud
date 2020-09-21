@@ -1,0 +1,27 @@
+.table-panel {
+  margin-top: 15px;
+  padding: 10px;
+}
+
+.table-panel .loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-filter {
+  flex-direction: row;
+  justify-content: space-between;
+  width: 600px;
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.select-fields {
+  width: 250px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+}
